@@ -18,7 +18,7 @@ body {
 	color: #4aaaa5;
 	padding: 20px;
 	position: relative;
-	margin: 0px;
+	margin-left: 100px;
 }
 
 #contact {
@@ -29,11 +29,15 @@ body {
 #markGildea {
 	background-color: #4aaaa5;
 	color: white;
-	float: left;
+	margin-left: 100px;
+	width: 125px;
+	padding: 30px;
+	text-align: center;
 }
 
 #aboutMe {
 	background-color: #4aaaa5;
 	color: white;
+	margin-top: 100px;
 }
 
