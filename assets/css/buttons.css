@@ -1,0 +1,15 @@
+a:visited {
+	color: purple;
+}
+
+a:hover {
+	background-color: #4aaaa5;
+}
+
+a:active {
+	background-color: orange;
+}
+
+a:focus {
+	background-color: yellow;
+}

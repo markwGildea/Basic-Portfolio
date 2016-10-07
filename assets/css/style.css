@@ -4,18 +4,36 @@ body {
 	background: #ffffff;
 	border-color: #dddddd;
 	background-image: url(../images/cork-wallet.png);
+	color: #777777;
+}
+
+.rightSide {
+	float: right;
+	text-align: right;
 }
 
 #container {
-	background: #ffffff;
+	background-color: #ffffff;
 	border-color: #cccccc;
 	color: #4aaaa5;
 	padding: 20px;
 	position: relative;
-	left: 100px;
+	margin: 0px;
 }
 
-#aboutMe {
+#contact {
 	color: #4aaaa5;
 	background: #ffffff;
 }
+
+#markGildea {
+	background-color: #4aaaa5;
+	color: white;
+	float: left;
+}
+
+#aboutMe {
+	background-color: #4aaaa5;
+	color: white;
+}
+
